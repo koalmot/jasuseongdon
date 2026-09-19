@@ -1,0 +1,21 @@
+:root {
+  --cream: #fff8e8;
+  --yellow: #ffd85a;
+  --yellow-soft: #fff1b7;
+  --mint: #8ee4cb;
+  --mint-soft: #d4f7eb;
+  --sky: #bfeaff;
+  --blue-soft: #dff5ff;
+  --pink: #ffabbf;
+  --pink-soft: #ffdce6;
+  --berry: #e87592;
+  --brown: #5f3c1f;
+  --cocoa: #6d4a2f;
+  --ink: #725b49;
+  --ink-light: #987f69;
+  --ink-soft: #8b7058;
+  --shadow-pixel: rgba(109, 79, 41, 0.23);
+  --room-ceiling: #fff0ce;
+  --room-wall: #ffe3b2;
+  --floor: #e4bd89;
+}
